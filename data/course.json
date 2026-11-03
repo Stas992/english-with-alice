@@ -1,0 +1,5383 @@
+{
+  "title": "English with Dad — полный курс на 16 недель",
+  "note": "Авторская программа для русскоязычного ребёнка 10 лет; не является дословным воспроизведением учебников Быковой или Поспеловой.",
+  "schedule": {
+    "weeks": 16,
+    "lessons_per_week": 3,
+    "total_lessons": 48,
+    "lesson_minutes": "25–35",
+    "new_words_per_week": 8
+  },
+  "review_schedule": [
+    {
+      "day": "День изучения",
+      "task": "Прочитать, услышать, произнести, перевести и написать."
+    },
+    {
+      "day": "Следующий день",
+      "task": "Вспомнить перевод и произношение без подсказки."
+    },
+    {
+      "day": "Через 3 дня",
+      "task": "Карточки EN→RU и RU→EN."
+    },
+    {
+      "day": "Через 7 дней",
+      "task": "Мини-диктант и два предложения."
+    },
+    {
+      "day": "Через 14 дней",
+      "task": "Смешанное повторение старых и новых слов."
+    }
+  ],
+  "weeks": [
+    {
+      "id": "week-01",
+      "number": 1,
+      "theme": "Знакомство",
+      "phonics": "/æ/ в cat, bag, map",
+      "grammar": "Местоимения I, you, he, she, it, we, they",
+      "grammar_rule": "Местоимение заменяет имя: I — я; you — ты/вы; he — он; she — она; it — предмет/животное; we — мы; they — они.",
+      "vocabulary": [
+        {
+          "id": "v001",
+          "word": "hello",
+          "ipa": "/həˈləʊ/",
+          "translation": "привет",
+          "example": "This is hello.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v002",
+          "word": "goodbye",
+          "ipa": "/ˌɡʊdˈbaɪ/",
+          "translation": "до свидания",
+          "example": "This is goodbye.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v003",
+          "word": "name",
+          "ipa": "/neɪm/",
+          "translation": "имя",
+          "example": "This is name.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v004",
+          "word": "girl",
+          "ipa": "/ɡɜːl/",
+          "translation": "девочка",
+          "example": "This is girl.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v005",
+          "word": "boy",
+          "ipa": "/bɔɪ/",
+          "translation": "мальчик",
+          "example": "This is boy.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v006",
+          "word": "cat",
+          "ipa": "/kæt/",
+          "translation": "кошка",
+          "example": "This is cat.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v007",
+          "word": "bag",
+          "ipa": "/bæɡ/",
+          "translation": "сумка",
+          "example": "This is bag.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v008",
+          "word": "map",
+          "ipa": "/mæp/",
+          "translation": "карта",
+          "example": "This is map.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w01-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай cat, bag, map по звукам; найди A",
+          "phonics_instruction": "/æ/ в cat, bag, map",
+          "vocabulary_ids": [
+            "v001",
+            "v002",
+            "v003",
+            "v004"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай cat, bag, map по звукам; найди A",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w01-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи hello, goodbye, name, girl, boy и представься",
+          "phonics_instruction": "/æ/ в cat, bag, map",
+          "vocabulary_ids": [
+            "v005",
+            "v006",
+            "v007",
+            "v008"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи hello, goodbye, name, girl, boy и представься",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w01-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Замени имена местоимениями: Anna→she, Tom→he, Anna and Tom→they.",
+          "phonics_instruction": "/æ/ в cat, bag, map",
+          "vocabulary_ids": [
+            "v001",
+            "v002",
+            "v003",
+            "v004",
+            "v005",
+            "v006",
+            "v007",
+            "v008"
+          ],
+          "grammar_rule": "Местоимение заменяет имя: I — я; you — ты/вы; he — он; she — она; it — предмет/животное; we — мы; they — они.",
+          "examples": [
+            "Anna is a pupil. → She is a pupil.",
+            "Tom is a boy. → He is a boy.",
+            "Anna and Tom are friends. → They are friends."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Замени имена местоимениями: Anna→she, Tom→he, Anna and Tom→they.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-01-test",
+        "title": "Тест недели 1: Знакомство",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w01-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: hello.",
+            "answer": "привет",
+            "points": 1
+          },
+          {
+            "id": "w01-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «до свидания».",
+            "answer": "goodbye",
+            "points": 1
+          },
+          {
+            "id": "w01-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: name.",
+            "answer": "имя",
+            "points": 1
+          },
+          {
+            "id": "w01-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w01-q5",
+            "type": "grammar_text_input",
+            "prompt": "Anna and Tom = __.",
+            "answer": "they",
+            "points": 1
+          },
+          {
+            "id": "w01-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Я девочка.»",
+            "answer": "I am a girl.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w01-q1",
+            "answer": "привет"
+          },
+          {
+            "question_id": "w01-q2",
+            "answer": "goodbye"
+          },
+          {
+            "question_id": "w01-q3",
+            "answer": "имя"
+          },
+          {
+            "question_id": "w01-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w01-q5",
+            "answer": "they"
+          },
+          {
+            "question_id": "w01-q6",
+            "answer": "I am a girl."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-02",
+      "number": 2,
+      "theme": "Школа",
+      "phonics": "/e/ в pen, red, desk",
+      "grammar": "To be: am / is / are — утверждение",
+      "grammar_rule": "I am; he/she/it is; you/we/they are. В английском связку обычно нельзя опускать: I am a pupil.",
+      "vocabulary": [
+        {
+          "id": "v009",
+          "word": "pen",
+          "ipa": "/pen/",
+          "translation": "ручка",
+          "example": "This is pen.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v010",
+          "word": "pencil",
+          "ipa": "/ˈpensəl/",
+          "translation": "карандаш",
+          "example": "This is pencil.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v011",
+          "word": "book",
+          "ipa": "/bʊk/",
+          "translation": "книга",
+          "example": "This is book.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v012",
+          "word": "desk",
+          "ipa": "/desk/",
+          "translation": "парта",
+          "example": "This is desk.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v013",
+          "word": "red",
+          "ipa": "/red/",
+          "translation": "красный",
+          "example": "This is red.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v014",
+          "word": "school",
+          "ipa": "/skuːl/",
+          "translation": "школа",
+          "example": "This is school.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v015",
+          "word": "teacher",
+          "ipa": "/ˈtiːtʃə/",
+          "translation": "учитель",
+          "example": "This is teacher.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v016",
+          "word": "friend",
+          "ipa": "/frend/",
+          "translation": "друг",
+          "example": "This is friend.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w02-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай pen, red, desk; выдели /e/",
+          "phonics_instruction": "/e/ в pen, red, desk",
+          "vocabulary_ids": [
+            "v009",
+            "v010",
+            "v011",
+            "v012"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай pen, red, desk; выдели /e/",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w02-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи школьные слова и подпиши предметы",
+          "phonics_instruction": "/e/ в pen, red, desk",
+          "vocabulary_ids": [
+            "v013",
+            "v014",
+            "v015",
+            "v016"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи школьные слова и подпиши предметы",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w02-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Вставь am/is/are: I __ a pupil; She __ my friend; They __ at school.",
+          "phonics_instruction": "/e/ в pen, red, desk",
+          "vocabulary_ids": [
+            "v009",
+            "v010",
+            "v011",
+            "v012",
+            "v013",
+            "v014",
+            "v015",
+            "v016"
+          ],
+          "grammar_rule": "I am; he/she/it is; you/we/they are. В английском связку обычно нельзя опускать: I am a pupil.",
+          "examples": [
+            "I am at school.",
+            "She is a teacher.",
+            "They are friends."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Вставь am/is/are: I __ a pupil; She __ my friend; They __ at school.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-02-test",
+        "title": "Тест недели 2: Школа",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w02-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: pen.",
+            "answer": "ручка",
+            "points": 1
+          },
+          {
+            "id": "w02-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «карандаш».",
+            "answer": "pencil",
+            "points": 1
+          },
+          {
+            "id": "w02-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: book.",
+            "answer": "книга",
+            "points": 1
+          },
+          {
+            "id": "w02-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w02-q5",
+            "type": "grammar_text_input",
+            "prompt": "She __ my friend.",
+            "answer": "is",
+            "points": 1
+          },
+          {
+            "id": "w02-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Она моя подруга.»",
+            "answer": "She is my friend.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w02-q1",
+            "answer": "ручка"
+          },
+          {
+            "question_id": "w02-q2",
+            "answer": "pencil"
+          },
+          {
+            "question_id": "w02-q3",
+            "answer": "книга"
+          },
+          {
+            "question_id": "w02-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w02-q5",
+            "answer": "is"
+          },
+          {
+            "question_id": "w02-q6",
+            "answer": "She is my friend."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-03",
+      "number": 3,
+      "theme": "Семья",
+      "phonics": "/ɪ/ в sit, big, six, fish",
+      "grammar": "To be: отрицания и вопросы",
+      "grammar_rule": "Отрицание: am not, isn't, aren't. Вопрос: am/is/are ставим перед подлежащим: She is happy → Is she happy?",
+      "vocabulary": [
+        {
+          "id": "v017",
+          "word": "mother",
+          "ipa": "/ˈmʌðə/",
+          "translation": "мама",
+          "example": "This is mother.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v018",
+          "word": "father",
+          "ipa": "/ˈfɑːðə/",
+          "translation": "папа",
+          "example": "This is father.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v019",
+          "word": "sister",
+          "ipa": "/ˈsɪstə/",
+          "translation": "сестра",
+          "example": "This is sister.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v020",
+          "word": "brother",
+          "ipa": "/ˈbrʌðə/",
+          "translation": "брат",
+          "example": "This is brother.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v021",
+          "word": "family",
+          "ipa": "/ˈfæməli/",
+          "translation": "семья",
+          "example": "This is family.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v022",
+          "word": "big",
+          "ipa": "/bɪɡ/",
+          "translation": "большой",
+          "example": "This is big.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v023",
+          "word": "six",
+          "ipa": "/sɪks/",
+          "translation": "шесть",
+          "example": "This is six.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v024",
+          "word": "fish",
+          "ipa": "/fɪʃ/",
+          "translation": "рыба",
+          "example": "This is fish.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w03-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай sit, big, six, fish; сравни короткий /ɪ/ с долгим /iː/",
+          "phonics_instruction": "/ɪ/ в sit, big, six, fish",
+          "vocabulary_ids": [
+            "v017",
+            "v018",
+            "v019",
+            "v020"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай sit, big, six, fish; сравни короткий /ɪ/ с долгим /iː/",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w03-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Нарисуй семейное дерево и подпиши родственников",
+          "phonics_instruction": "/ɪ/ в sit, big, six, fish",
+          "vocabulary_ids": [
+            "v021",
+            "v022",
+            "v023",
+            "v024"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Нарисуй семейное дерево и подпиши родственников",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w03-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сделай отрицание и вопрос: He is happy; We are friends.",
+          "phonics_instruction": "/ɪ/ в sit, big, six, fish",
+          "vocabulary_ids": [
+            "v017",
+            "v018",
+            "v019",
+            "v020",
+            "v021",
+            "v022",
+            "v023",
+            "v024"
+          ],
+          "grammar_rule": "Отрицание: am not, isn't, aren't. Вопрос: am/is/are ставим перед подлежащим: She is happy → Is she happy?",
+          "examples": [
+            "He is happy. → He isn’t happy.",
+            "We are friends. → We aren’t friends.",
+            "She is happy. → Is she happy?"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сделай отрицание и вопрос: He is happy; We are friends.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-03-test",
+        "title": "Тест недели 3: Семья",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w03-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: mother.",
+            "answer": "мама",
+            "points": 1
+          },
+          {
+            "id": "w03-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «папа».",
+            "answer": "father",
+            "points": 1
+          },
+          {
+            "id": "w03-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: sister.",
+            "answer": "сестра",
+            "points": 1
+          },
+          {
+            "id": "w03-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w03-q5",
+            "type": "grammar_text_input",
+            "prompt": "__ he happy?",
+            "answer": "Is",
+            "points": 1
+          },
+          {
+            "id": "w03-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Он не мой брат.»",
+            "answer": "He isn't my brother.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w03-q1",
+            "answer": "мама"
+          },
+          {
+            "question_id": "w03-q2",
+            "answer": "father"
+          },
+          {
+            "question_id": "w03-q3",
+            "answer": "сестра"
+          },
+          {
+            "question_id": "w03-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w03-q5",
+            "answer": "Is"
+          },
+          {
+            "question_id": "w03-q6",
+            "answer": "He isn't my brother."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-04",
+      "number": 4,
+      "theme": "Дом",
+      "phonics": "Британский короткий /ɒ/ в dog, box, hot",
+      "grammar": "A / An; This / That",
+      "grammar_rule": "A перед согласным звуком, an перед гласным: a dog, an apple. This — один предмет рядом, that — один дальше.",
+      "vocabulary": [
+        {
+          "id": "v025",
+          "word": "house",
+          "ipa": "/haʊs/",
+          "translation": "дом",
+          "example": "This is house.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v026",
+          "word": "room",
+          "ipa": "/ruːm/",
+          "translation": "комната",
+          "example": "This is room.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v027",
+          "word": "door",
+          "ipa": "/dɔː/",
+          "translation": "дверь",
+          "example": "This is door.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v028",
+          "word": "window",
+          "ipa": "/ˈwɪndəʊ/",
+          "translation": "окно",
+          "example": "This is window.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v029",
+          "word": "table",
+          "ipa": "/ˈteɪbəl/",
+          "translation": "стол",
+          "example": "This is table.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v030",
+          "word": "chair",
+          "ipa": "/tʃeə/",
+          "translation": "стул",
+          "example": "This is chair.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v031",
+          "word": "dog",
+          "ipa": "/dɒɡ/",
+          "translation": "собака",
+          "example": "This is dog.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v032",
+          "word": "box",
+          "ipa": "/bɒks/",
+          "translation": "коробка",
+          "example": "This is box.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w04-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай dog, box, hot",
+          "phonics_instruction": "Британский короткий /ɒ/ в dog, box, hot",
+          "vocabulary_ids": [
+            "v025",
+            "v026",
+            "v027",
+            "v028"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай dog, box, hot",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w04-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Подпиши предметы комнаты",
+          "phonics_instruction": "Британский короткий /ɒ/ в dog, box, hot",
+          "vocabulary_ids": [
+            "v029",
+            "v030",
+            "v031",
+            "v032"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Подпиши предметы комнаты",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w04-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выбери a/an: __ apple, __ dog, __ orange; составь This is… и That is….",
+          "phonics_instruction": "Британский короткий /ɒ/ в dog, box, hot",
+          "vocabulary_ids": [
+            "v025",
+            "v026",
+            "v027",
+            "v028",
+            "v029",
+            "v030",
+            "v031",
+            "v032"
+          ],
+          "grammar_rule": "A перед согласным звуком, an перед гласным: a dog, an apple. This — один предмет рядом, that — один дальше.",
+          "examples": [
+            "a dog",
+            "an apple",
+            "This is a table.",
+            "That is a bed."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выбери a/an: __ apple, __ dog, __ orange; составь This is… и That is….",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-04-test",
+        "title": "Тест недели 4: Дом",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w04-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: house.",
+            "answer": "дом",
+            "points": 1
+          },
+          {
+            "id": "w04-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «комната».",
+            "answer": "room",
+            "points": 1
+          },
+          {
+            "id": "w04-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: door.",
+            "answer": "дверь",
+            "points": 1
+          },
+          {
+            "id": "w04-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w04-q5",
+            "type": "grammar_text_input",
+            "prompt": "Choose the article: __ apple.",
+            "answer": "an",
+            "points": 1
+          },
+          {
+            "id": "w04-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Это яблоко.»",
+            "answer": "This is an apple.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w04-q1",
+            "answer": "дом"
+          },
+          {
+            "question_id": "w04-q2",
+            "answer": "room"
+          },
+          {
+            "question_id": "w04-q3",
+            "answer": "дверь"
+          },
+          {
+            "question_id": "w04-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w04-q5",
+            "answer": "an"
+          },
+          {
+            "question_id": "w04-q6",
+            "answer": "This is an apple."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-05",
+      "number": 5,
+      "theme": "Еда",
+      "phonics": "/ʌ/ в cup, bus, sun",
+      "grammar": "Множественное число -s / -es",
+      "grammar_rule": "Обычно добавляем -s: book→books. После s, sh, ch, x добавляем -es: box→boxes, bus→buses. Children — особая форма.",
+      "vocabulary": [
+        {
+          "id": "v033",
+          "word": "apple",
+          "ipa": "/ˈæpəl/",
+          "translation": "яблоко",
+          "example": "This is apple.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v034",
+          "word": "banana",
+          "ipa": "/bəˈnɑːnə/",
+          "translation": "банан",
+          "example": "This is banana.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v035",
+          "word": "milk",
+          "ipa": "/mɪlk/",
+          "translation": "молоко",
+          "example": "This is milk.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v036",
+          "word": "water",
+          "ipa": "/ˈwɔːtə/",
+          "translation": "вода",
+          "example": "This is water.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v037",
+          "word": "bread",
+          "ipa": "/bred/",
+          "translation": "хлеб",
+          "example": "This is bread.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v038",
+          "word": "egg",
+          "ipa": "/eɡ/",
+          "translation": "яйцо",
+          "example": "This is egg.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v039",
+          "word": "cup",
+          "ipa": "/kʌp/",
+          "translation": "чашка",
+          "example": "This is cup.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v040",
+          "word": "sun",
+          "ipa": "/sʌn/",
+          "translation": "солнце",
+          "example": "This is sun.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w05-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай cup, bus, sun",
+          "phonics_instruction": "/ʌ/ в cup, bus, sun",
+          "vocabulary_ids": [
+            "v033",
+            "v034",
+            "v035",
+            "v036"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай cup, bus, sun",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w05-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Раздели продукты на еду и напитки",
+          "phonics_instruction": "/ʌ/ в cup, bus, sun",
+          "vocabulary_ids": [
+            "v037",
+            "v038",
+            "v039",
+            "v040"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Раздели продукты на еду и напитки",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w05-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Поставь во множественное число cat, book, box, bus; объясни box→boxes.",
+          "phonics_instruction": "/ʌ/ в cup, bus, sun",
+          "vocabulary_ids": [
+            "v033",
+            "v034",
+            "v035",
+            "v036",
+            "v037",
+            "v038",
+            "v039",
+            "v040"
+          ],
+          "grammar_rule": "Обычно добавляем -s: book→books. После s, sh, ch, x добавляем -es: box→boxes, bus→buses. Children — особая форма.",
+          "examples": [
+            "one book → two books",
+            "one cat → two cats",
+            "one box → two boxes",
+            "one bus → two buses"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Поставь во множественное число cat, book, box, bus; объясни box→boxes.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-05-test",
+        "title": "Тест недели 5: Еда",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w05-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: apple.",
+            "answer": "яблоко",
+            "points": 1
+          },
+          {
+            "id": "w05-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «банан».",
+            "answer": "banana",
+            "points": 1
+          },
+          {
+            "id": "w05-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: milk.",
+            "answer": "молоко",
+            "points": 1
+          },
+          {
+            "id": "w05-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w05-q5",
+            "type": "grammar_text_input",
+            "prompt": "Write the plural: one box — two __.",
+            "answer": "boxes",
+            "points": 1
+          },
+          {
+            "id": "w05-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Две книги.»",
+            "answer": "Two books.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w05-q1",
+            "answer": "яблоко"
+          },
+          {
+            "question_id": "w05-q2",
+            "answer": "banana"
+          },
+          {
+            "question_id": "w05-q3",
+            "answer": "молоко"
+          },
+          {
+            "question_id": "w05-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w05-q5",
+            "answer": "boxes"
+          },
+          {
+            "question_id": "w05-q6",
+            "answer": "Two books."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-06",
+      "number": 6,
+      "theme": "Цвета",
+      "phonics": "SH /ʃ/ и CH /tʃ/: ship, fish; chair, cheese",
+      "grammar": "This / That / These / Those",
+      "grammar_rule": "This — один рядом; that — один далеко; these — несколько рядом; those — несколько далеко. This/that + is; these/those + are.",
+      "vocabulary": [
+        {
+          "id": "v041",
+          "word": "black",
+          "ipa": "/blæk/",
+          "translation": "чёрный",
+          "example": "This is black.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v042",
+          "word": "white",
+          "ipa": "/waɪt/",
+          "translation": "белый",
+          "example": "This is white.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v043",
+          "word": "blue",
+          "ipa": "/bluː/",
+          "translation": "синий",
+          "example": "This is blue.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v044",
+          "word": "green",
+          "ipa": "/ɡriːn/",
+          "translation": "зелёный",
+          "example": "This is green.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v045",
+          "word": "yellow",
+          "ipa": "/ˈjeləʊ/",
+          "translation": "жёлтый",
+          "example": "This is yellow.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v046",
+          "word": "orange",
+          "ipa": "/ˈɒrɪndʒ/",
+          "translation": "оранжевый",
+          "example": "This is orange.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v047",
+          "word": "ship",
+          "ipa": "/ʃɪp/",
+          "translation": "корабль",
+          "example": "This is ship.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v048",
+          "word": "cheese",
+          "ipa": "/tʃiːz/",
+          "translation": "сыр",
+          "example": "This is cheese.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w06-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Произнеси SH и CH в ship, shop, chair, cheese",
+          "phonics_instruction": "SH /ʃ/ и CH /tʃ/: ship, fish; chair, cheese",
+          "vocabulary_ids": [
+            "v041",
+            "v042",
+            "v043",
+            "v044"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Произнеси SH и CH в ship, shop, chair, cheese",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w06-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи цвета и найди предметы вокруг",
+          "phonics_instruction": "SH /ʃ/ и CH /tʃ/: ship, fish; chair, cheese",
+          "vocabulary_ids": [
+            "v045",
+            "v046",
+            "v047",
+            "v048"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи цвета и найди предметы вокруг",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w06-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выбери this/that/these/those для одного/нескольких предметов рядом/далеко.",
+          "phonics_instruction": "SH /ʃ/ и CH /tʃ/: ship, fish; chair, cheese",
+          "vocabulary_ids": [
+            "v041",
+            "v042",
+            "v043",
+            "v044",
+            "v045",
+            "v046",
+            "v047",
+            "v048"
+          ],
+          "grammar_rule": "This — один рядом; that — один далеко; these — несколько рядом; those — несколько далеко. This/that + is; these/those + are.",
+          "examples": [
+            "This is a blue pen. (один рядом)",
+            "That is a red bag. (один далеко)",
+            "These are green books. (несколько рядом)",
+            "Those are yellow buses. (несколько далеко)"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выбери this/that/these/those для одного/нескольких предметов рядом/далеко.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-06-test",
+        "title": "Тест недели 6: Цвета",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w06-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: black.",
+            "answer": "чёрный",
+            "points": 1
+          },
+          {
+            "id": "w06-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «белый».",
+            "answer": "white",
+            "points": 1
+          },
+          {
+            "id": "w06-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: blue.",
+            "answer": "синий",
+            "points": 1
+          },
+          {
+            "id": "w06-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w06-q5",
+            "type": "grammar_text_input",
+            "prompt": "Several objects near you: __.",
+            "answer": "these",
+            "points": 1
+          },
+          {
+            "id": "w06-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Это красные книги (рядом).»",
+            "answer": "These are red books.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w06-q1",
+            "answer": "чёрный"
+          },
+          {
+            "question_id": "w06-q2",
+            "answer": "white"
+          },
+          {
+            "question_id": "w06-q3",
+            "answer": "синий"
+          },
+          {
+            "question_id": "w06-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w06-q5",
+            "answer": "these"
+          },
+          {
+            "question_id": "w06-q6",
+            "answer": "These are red books."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-07",
+      "number": 7,
+      "theme": "Животные",
+      "phonics": "TH: /θ/ в three; /ð/ в this, mother",
+      "grammar": "My, your, his, her, its, our, their",
+      "grammar_rule": "My — мой; your — твой; his — его; her — её; its — его/её для предмета/животного; our — наш; their — их. Ставятся перед существительным.",
+      "vocabulary": [
+        {
+          "id": "v049",
+          "word": "bird",
+          "ipa": "/bɜːd/",
+          "translation": "птица",
+          "example": "This is bird.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v050",
+          "word": "horse",
+          "ipa": "/hɔːs/",
+          "translation": "лошадь",
+          "example": "This is horse.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v051",
+          "word": "rabbit",
+          "ipa": "/ˈræbɪt/",
+          "translation": "кролик",
+          "example": "This is rabbit.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v052",
+          "word": "lion",
+          "ipa": "/ˈlaɪən/",
+          "translation": "лев",
+          "example": "This is lion.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v053",
+          "word": "three",
+          "ipa": "/θriː/",
+          "translation": "три",
+          "example": "This is three.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v054",
+          "word": "thank",
+          "ipa": "/θæŋk/",
+          "translation": "благодарить",
+          "example": "This is thank.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v055",
+          "word": "this",
+          "ipa": "/ðɪs/",
+          "translation": "это",
+          "example": "This is this.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v056",
+          "word": "mother",
+          "ipa": "/ˈmʌðə/",
+          "translation": "мама",
+          "example": "This is mother.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w07-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Для TH слегка покажи кончик языка между зубами: /θ/ глухой, /ð/ звонкий",
+          "phonics_instruction": "TH: /θ/ в three; /ð/ в this, mother",
+          "vocabulary_ids": [
+            "v049",
+            "v050",
+            "v051",
+            "v052"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Для TH слегка покажи кончик языка между зубами: /θ/ глухой, /ð/ звонкий",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w07-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи животных и опиши их",
+          "phonics_instruction": "TH: /θ/ в three; /ð/ в this, mother",
+          "vocabulary_ids": [
+            "v053",
+            "v054",
+            "v055",
+            "v056"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи животных и опиши их",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w07-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Вставь my/your/his/her/our/their в 5 фраз.",
+          "phonics_instruction": "TH: /θ/ в three; /ð/ в this, mother",
+          "vocabulary_ids": [
+            "v049",
+            "v050",
+            "v051",
+            "v052",
+            "v053",
+            "v054",
+            "v055",
+            "v056"
+          ],
+          "grammar_rule": "My — мой; your — твой; his — его; her — её; its — его/её для предмета/животного; our — наш; their — их. Ставятся перед существительным.",
+          "examples": [
+            "My dog is kind.",
+            "Your cat is small.",
+            "His horse is brown.",
+            "Her rabbit is white.",
+            "Its tail is long.",
+            "Our family is happy.",
+            "Their pets are funny."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Вставь my/your/his/her/our/their в 5 фраз.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-07-test",
+        "title": "Тест недели 7: Животные",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w07-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: bird.",
+            "answer": "птица",
+            "points": 1
+          },
+          {
+            "id": "w07-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «лошадь».",
+            "answer": "horse",
+            "points": 1
+          },
+          {
+            "id": "w07-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: rabbit.",
+            "answer": "кролик",
+            "points": 1
+          },
+          {
+            "id": "w07-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w07-q5",
+            "type": "grammar_text_input",
+            "prompt": "Anna's book = __ book.",
+            "answer": "her",
+            "points": 1
+          },
+          {
+            "id": "w07-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Это моя собака.»",
+            "answer": "This is my dog.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w07-q1",
+            "answer": "птица"
+          },
+          {
+            "question_id": "w07-q2",
+            "answer": "horse"
+          },
+          {
+            "question_id": "w07-q3",
+            "answer": "кролик"
+          },
+          {
+            "question_id": "w07-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w07-q5",
+            "answer": "her"
+          },
+          {
+            "question_id": "w07-q6",
+            "answer": "This is my dog."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-08",
+      "number": 8,
+      "theme": "Одежда и расположение",
+      "phonics": "EE обычно /iː/: see, green, feet; сравни fish /ɪ/ и feet /iː/",
+      "grammar": "Предлоги in, on, under, next to, behind, in front of",
+      "grammar_rule": "In — внутри; on — на; under — под; next to — рядом; behind — позади; in front of — перед. The cat is under the table.",
+      "vocabulary": [
+        {
+          "id": "v057",
+          "word": "shirt",
+          "ipa": "/ʃɜːt/",
+          "translation": "рубашка",
+          "example": "This is shirt.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v058",
+          "word": "T-shirt",
+          "ipa": "/ˈtiː ʃɜːt/",
+          "translation": "футболка",
+          "example": "This is T-shirt.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v059",
+          "word": "shoes",
+          "ipa": "/ʃuːz/",
+          "translation": "обувь",
+          "example": "This is shoes.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v060",
+          "word": "dress",
+          "ipa": "/dres/",
+          "translation": "платье",
+          "example": "This is dress.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v061",
+          "word": "coat",
+          "ipa": "/kəʊt/",
+          "translation": "пальто",
+          "example": "This is coat.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v062",
+          "word": "hat",
+          "ipa": "/hæt/",
+          "translation": "шапка",
+          "example": "This is hat.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v063",
+          "word": "see",
+          "ipa": "/siː/",
+          "translation": "видеть",
+          "example": "This is see.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v064",
+          "word": "feet",
+          "ipa": "/fiːt/",
+          "translation": "ступни",
+          "example": "This is feet.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w08-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни fish и feet",
+          "phonics_instruction": "EE обычно /iː/: see, green, feet; сравни fish /ɪ/ и feet /iː/",
+          "vocabulary_ids": [
+            "v057",
+            "v058",
+            "v059",
+            "v060"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни fish и feet",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w08-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи одежду и опиши, что надето",
+          "phonics_instruction": "EE обычно /iː/: see, green, feet; сравни fish /ɪ/ и feet /iː/",
+          "vocabulary_ids": [
+            "v061",
+            "v062",
+            "v063",
+            "v064"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи одежду и опиши, что надето",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w08-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Разложи предметы и скажи: The book is on/under/next to the table.",
+          "phonics_instruction": "EE обычно /iː/: see, green, feet; сравни fish /ɪ/ и feet /iː/",
+          "vocabulary_ids": [
+            "v057",
+            "v058",
+            "v059",
+            "v060",
+            "v061",
+            "v062",
+            "v063",
+            "v064"
+          ],
+          "grammar_rule": "In — внутри; on — на; under — под; next to — рядом; behind — позади; in front of — перед. The cat is under the table.",
+          "examples": [
+            "The book is in the bag.",
+            "The book is on the table.",
+            "The ball is under the chair.",
+            "The desk is next to the bed.",
+            "The bag is behind the door.",
+            "The chair is in front of the desk."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Разложи предметы и скажи: The book is on/under/next to the table.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-08-test",
+        "title": "Тест недели 8: Одежда и расположение",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w08-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: shirt.",
+            "answer": "рубашка",
+            "points": 1
+          },
+          {
+            "id": "w08-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «футболка».",
+            "answer": "T-shirt",
+            "points": 1
+          },
+          {
+            "id": "w08-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: shoes.",
+            "answer": "обувь",
+            "points": 1
+          },
+          {
+            "id": "w08-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w08-q5",
+            "type": "grammar_text_input",
+            "prompt": "The cat is below the table. The cat is __ the table.",
+            "answer": "under",
+            "points": 1
+          },
+          {
+            "id": "w08-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Кошка под столом.»",
+            "answer": "The cat is under the table.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w08-q1",
+            "answer": "рубашка"
+          },
+          {
+            "question_id": "w08-q2",
+            "answer": "T-shirt"
+          },
+          {
+            "question_id": "w08-q3",
+            "answer": "обувь"
+          },
+          {
+            "question_id": "w08-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w08-q5",
+            "answer": "under"
+          },
+          {
+            "question_id": "w08-q6",
+            "answer": "The cat is under the table."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-09",
+      "number": 9,
+      "theme": "Действия",
+      "phonics": "OO: /uː/ moon, school; /ʊ/ book",
+      "grammar": "Have got / Has got",
+      "grammar_rule": "I/you/we/they have got; he/she/it has got. Отрицание haven't/hasn't got. Вопрос Have/Has + подлежащее + got?",
+      "vocabulary": [
+        {
+          "id": "v065",
+          "word": "get up",
+          "ipa": "/ɡet ʌp/",
+          "translation": "вставать",
+          "example": "This is get up.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v066",
+          "word": "wash",
+          "ipa": "/wɒʃ/",
+          "translation": "мыть",
+          "example": "This is wash.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v067",
+          "word": "eat",
+          "ipa": "/iːt/",
+          "translation": "есть",
+          "example": "This is eat.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v068",
+          "word": "drink",
+          "ipa": "/drɪŋk/",
+          "translation": "пить",
+          "example": "This is drink.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v069",
+          "word": "play",
+          "ipa": "/pleɪ/",
+          "translation": "играть",
+          "example": "This is play.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v070",
+          "word": "read",
+          "ipa": "/riːd/",
+          "translation": "читать",
+          "example": "This is read.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v071",
+          "word": "moon",
+          "ipa": "/muːn/",
+          "translation": "луна",
+          "example": "This is moon.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v072",
+          "word": "book",
+          "ipa": "/bʊk/",
+          "translation": "книга",
+          "example": "This is book.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w09-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни moon и book",
+          "phonics_instruction": "OO: /uː/ moon, school; /ʊ/ book",
+          "vocabulary_ids": [
+            "v065",
+            "v066",
+            "v067",
+            "v068"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни moon и book",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w09-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи глаголы и покажи действия",
+          "phonics_instruction": "OO: /uː/ moon, school; /ʊ/ book",
+          "vocabulary_ids": [
+            "v069",
+            "v070",
+            "v071",
+            "v072"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи глаголы и покажи действия",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w09-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни I have got и She has got; сделай вопрос и отрицание.",
+          "phonics_instruction": "OO: /uː/ moon, school; /ʊ/ book",
+          "vocabulary_ids": [
+            "v065",
+            "v066",
+            "v067",
+            "v068",
+            "v069",
+            "v070",
+            "v071",
+            "v072"
+          ],
+          "grammar_rule": "I/you/we/they have got; he/she/it has got. Отрицание haven't/hasn't got. Вопрос Have/Has + подлежащее + got?",
+          "examples": [
+            "I have got a dog.",
+            "She has got a cat.",
+            "Have you got a sister?",
+            "He hasn’t got a bike."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни I have got и She has got; сделай вопрос и отрицание.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-09-test",
+        "title": "Тест недели 9: Действия",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w09-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: get up.",
+            "answer": "вставать",
+            "points": 1
+          },
+          {
+            "id": "w09-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «мыть».",
+            "answer": "wash",
+            "points": 1
+          },
+          {
+            "id": "w09-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: eat.",
+            "answer": "есть",
+            "points": 1
+          },
+          {
+            "id": "w09-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w09-q5",
+            "type": "grammar_text_input",
+            "prompt": "She __ got a cat.",
+            "answer": "has",
+            "points": 1
+          },
+          {
+            "id": "w09-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «У неё есть кошка.»",
+            "answer": "She has got a cat.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w09-q1",
+            "answer": "вставать"
+          },
+          {
+            "question_id": "w09-q2",
+            "answer": "wash"
+          },
+          {
+            "question_id": "w09-q3",
+            "answer": "есть"
+          },
+          {
+            "question_id": "w09-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w09-q5",
+            "answer": "has"
+          },
+          {
+            "question_id": "w09-q6",
+            "answer": "She has got a cat."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-10",
+      "number": 10,
+      "theme": "Привычки",
+      "phonics": "Окончание -s/-es: plays, reads, watches",
+      "grammar": "Present Simple: утверждения",
+      "grammar_rule": "Present Simple описывает привычки и факты. I/you/we/they + глагол; he/she/it + глагол-s/-es: She reads; He watches.",
+      "vocabulary": [
+        {
+          "id": "v073",
+          "word": "morning",
+          "ipa": "/ˈmɔːnɪŋ/",
+          "translation": "утро",
+          "example": "This is morning.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v074",
+          "word": "afternoon",
+          "ipa": "/ˌɑːftəˈnuːn/",
+          "translation": "день",
+          "example": "This is afternoon.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v075",
+          "word": "evening",
+          "ipa": "/ˈiːvnɪŋ/",
+          "translation": "вечер",
+          "example": "This is evening.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v076",
+          "word": "every day",
+          "ipa": "/ˈevri deɪ/",
+          "translation": "каждый день",
+          "example": "This is every day.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v077",
+          "word": "homework",
+          "ipa": "/ˈhəʊmwɜːk/",
+          "translation": "домашняя работа",
+          "example": "This is homework.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v078",
+          "word": "watch",
+          "ipa": "/wɒtʃ/",
+          "translation": "смотреть",
+          "example": "This is watch.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v079",
+          "word": "like",
+          "ipa": "/laɪk/",
+          "translation": "нравиться",
+          "example": "This is like.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v080",
+          "word": "go",
+          "ipa": "/ɡəʊ/",
+          "translation": "идти",
+          "example": "This is go.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w10-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни play/plays, watch/watches",
+          "phonics_instruction": "Окончание -s/-es: plays, reads, watches",
+          "vocabulary_ids": [
+            "v073",
+            "v074",
+            "v075",
+            "v076"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни play/plays, watch/watches",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w10-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи слова распорядка и расскажи о дне",
+          "phonics_instruction": "Окончание -s/-es: plays, reads, watches",
+          "vocabulary_ids": [
+            "v077",
+            "v078",
+            "v079",
+            "v080"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи слова распорядка и расскажи о дне",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w10-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выбери: She play/plays; He go/goes; I read/reads.",
+          "phonics_instruction": "Окончание -s/-es: plays, reads, watches",
+          "vocabulary_ids": [
+            "v073",
+            "v074",
+            "v075",
+            "v076",
+            "v077",
+            "v078",
+            "v079",
+            "v080"
+          ],
+          "grammar_rule": "Present Simple описывает привычки и факты. I/you/we/they + глагол; he/she/it + глагол-s/-es: She reads; He watches.",
+          "examples": [
+            "I read every day.",
+            "She reads books.",
+            "He watches TV.",
+            "We play after school."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выбери: She play/plays; He go/goes; I read/reads.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-10-test",
+        "title": "Тест недели 10: Привычки",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w10-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: morning.",
+            "answer": "утро",
+            "points": 1
+          },
+          {
+            "id": "w10-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «день».",
+            "answer": "afternoon",
+            "points": 1
+          },
+          {
+            "id": "w10-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: evening.",
+            "answer": "вечер",
+            "points": 1
+          },
+          {
+            "id": "w10-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w10-q5",
+            "type": "grammar_text_input",
+            "prompt": "He __ to school every day.",
+            "answer": "goes",
+            "points": 1
+          },
+          {
+            "id": "w10-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Он ходит в школу каждый день.»",
+            "answer": "He goes to school every day.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w10-q1",
+            "answer": "утро"
+          },
+          {
+            "question_id": "w10-q2",
+            "answer": "afternoon"
+          },
+          {
+            "question_id": "w10-q3",
+            "answer": "вечер"
+          },
+          {
+            "question_id": "w10-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w10-q5",
+            "answer": "goes"
+          },
+          {
+            "question_id": "w10-q6",
+            "answer": "He goes to school every day."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-11",
+      "number": 11,
+      "theme": "Хобби",
+      "phonics": "AI/AY часто /eɪ/: rain, train, day, play",
+      "grammar": "Do/Does, don't/doesn't; What/Where",
+      "grammar_rule": "Do — I/you/we/they; does — he/she/it. В вопросе/отрицании глагол без -s: Does she play? She doesn't play. Вопросительное слово в начале.",
+      "vocabulary": [
+        {
+          "id": "v081",
+          "word": "draw",
+          "ipa": "/drɔː/",
+          "translation": "рисовать",
+          "example": "This is draw.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v082",
+          "word": "sing",
+          "ipa": "/sɪŋ/",
+          "translation": "петь",
+          "example": "This is sing.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v083",
+          "word": "dance",
+          "ipa": "/dɑːns/",
+          "translation": "танцевать",
+          "example": "This is dance.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v084",
+          "word": "swim",
+          "ipa": "/swɪm/",
+          "translation": "плавать",
+          "example": "This is swim.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v085",
+          "word": "ride a bike",
+          "ipa": "/raɪd ə baɪk/",
+          "translation": "кататься на велосипеде",
+          "example": "This is ride a bike.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v086",
+          "word": "rain",
+          "ipa": "/reɪn/",
+          "translation": "дождь",
+          "example": "This is rain.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v087",
+          "word": "train",
+          "ipa": "/treɪn/",
+          "translation": "поезд",
+          "example": "This is train.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v088",
+          "word": "what",
+          "ipa": "/wɒt/",
+          "translation": "что",
+          "example": "This is what.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w11-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай rain/train и day/play",
+          "phonics_instruction": "AI/AY часто /eɪ/: rain, train, day, play",
+          "vocabulary_ids": [
+            "v081",
+            "v082",
+            "v083",
+            "v084"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай rain/train и day/play",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w11-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи хобби и спроси Do you like music? Сделай вопрос You like cats; отрицание He plays tennis; вопрос с Where.",
+          "phonics_instruction": "AI/AY часто /eɪ/: rain, train, day, play",
+          "vocabulary_ids": [
+            "v085",
+            "v086",
+            "v087",
+            "v088"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи хобби и спроси Do you like music? Сделай вопрос You like cats; отрицание He plays tennis; вопрос с Where.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w11-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай rain/train и day/play. Выучи хобби и спроси Do you like music? Сделай вопрос You like cats; отрицание He plays tennis; вопрос с Where.",
+          "phonics_instruction": "AI/AY часто /eɪ/: rain, train, day, play",
+          "vocabulary_ids": [
+            "v081",
+            "v082",
+            "v083",
+            "v084",
+            "v085",
+            "v086",
+            "v087",
+            "v088"
+          ],
+          "grammar_rule": "Do — I/you/we/they; does — he/she/it. В вопросе/отрицании глагол без -s: Does she play? She doesn't play. Вопросительное слово в начале.",
+          "examples": [
+            "Do you like music?",
+            "Does she play tennis?",
+            "She doesn’t play football.",
+            "Where do you live?"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай rain/train и day/play. Выучи хобби и спроси Do you like music? Сделай вопрос You like cats; отрицание He plays tennis; вопрос с Where.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-11-test",
+        "title": "Тест недели 11: Хобби",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w11-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: draw.",
+            "answer": "рисовать",
+            "points": 1
+          },
+          {
+            "id": "w11-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «петь».",
+            "answer": "sing",
+            "points": 1
+          },
+          {
+            "id": "w11-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: dance.",
+            "answer": "танцевать",
+            "points": 1
+          },
+          {
+            "id": "w11-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w11-q5",
+            "type": "grammar_text_input",
+            "prompt": "__ she like music?",
+            "answer": "Does",
+            "points": 1
+          },
+          {
+            "id": "w11-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Она не любит музыку.»",
+            "answer": "She doesn't like music.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w11-q1",
+            "answer": "рисовать"
+          },
+          {
+            "question_id": "w11-q2",
+            "answer": "sing"
+          },
+          {
+            "question_id": "w11-q3",
+            "answer": "танцевать"
+          },
+          {
+            "question_id": "w11-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w11-q5",
+            "answer": "Does"
+          },
+          {
+            "question_id": "w11-q6",
+            "answer": "She doesn't like music."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-12",
+      "number": 12,
+      "theme": "Спорт",
+      "phonics": "AR/OR в car, park, sport, short",
+      "grammar": "Can / Can't",
+      "grammar_rule": "Can — мочь/уметь. После can глагол без to и без -s. Вопрос Can you…? Не используем do/does.",
+      "vocabulary": [
+        {
+          "id": "v089",
+          "word": "football",
+          "ipa": "/ˈfʊtbɔːl/",
+          "translation": "футбол",
+          "example": "This is football.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v090",
+          "word": "basketball",
+          "ipa": "/ˈbɑːskɪtbɔːl/",
+          "translation": "баскетбол",
+          "example": "This is basketball.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v091",
+          "word": "tennis",
+          "ipa": "/ˈtenɪs/",
+          "translation": "теннис",
+          "example": "This is tennis.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v092",
+          "word": "run",
+          "ipa": "/rʌn/",
+          "translation": "бегать",
+          "example": "This is run.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v093",
+          "word": "jump",
+          "ipa": "/dʒʌmp/",
+          "translation": "прыгать",
+          "example": "This is jump.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v094",
+          "word": "swim",
+          "ipa": "/swɪm/",
+          "translation": "плавать",
+          "example": "This is swim.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v095",
+          "word": "car",
+          "ipa": "/kɑː/",
+          "translation": "машина",
+          "example": "This is car.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v096",
+          "word": "park",
+          "ipa": "/pɑːk/",
+          "translation": "парк",
+          "example": "This is park.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w12-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай car, park, sport, short",
+          "phonics_instruction": "AR/OR в car, park, sport, short",
+          "vocabulary_ids": [
+            "v089",
+            "v090",
+            "v091",
+            "v092"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай car, park, sport, short",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w12-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи виды спорта",
+          "phonics_instruction": "AR/OR в car, park, sport, short",
+          "vocabulary_ids": [
+            "v093",
+            "v094",
+            "v095",
+            "v096"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи виды спорта",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w12-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Вставь can/can't: A bird __ fly; A fish __ walk; составь Can you swim?",
+          "phonics_instruction": "AR/OR в car, park, sport, short",
+          "vocabulary_ids": [
+            "v089",
+            "v090",
+            "v091",
+            "v092",
+            "v093",
+            "v094",
+            "v095",
+            "v096"
+          ],
+          "grammar_rule": "Can — мочь/уметь. После can глагол без to и без -s. Вопрос Can you…? Не используем do/does.",
+          "examples": [
+            "I can run.",
+            "A bird can fly.",
+            "A fish can’t walk.",
+            "Can you swim?"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Вставь can/can't: A bird __ fly; A fish __ walk; составь Can you swim?",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-12-test",
+        "title": "Тест недели 12: Спорт",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w12-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: football.",
+            "answer": "футбол",
+            "points": 1
+          },
+          {
+            "id": "w12-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «баскетбол».",
+            "answer": "basketball",
+            "points": 1
+          },
+          {
+            "id": "w12-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: tennis.",
+            "answer": "теннис",
+            "points": 1
+          },
+          {
+            "id": "w12-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w12-q5",
+            "type": "grammar_text_input",
+            "prompt": "A bird __ fly.",
+            "answer": "can",
+            "points": 1
+          },
+          {
+            "id": "w12-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Я умею плавать.»",
+            "answer": "I can swim.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w12-q1",
+            "answer": "футбол"
+          },
+          {
+            "question_id": "w12-q2",
+            "answer": "basketball"
+          },
+          {
+            "question_id": "w12-q3",
+            "answer": "теннис"
+          },
+          {
+            "question_id": "w12-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w12-q5",
+            "answer": "can"
+          },
+          {
+            "question_id": "w12-q6",
+            "answer": "I can swim."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-13",
+      "number": 13,
+      "theme": "Время",
+      "phonics": "CVCe: name, bike, home; конечная e обычно не читается",
+      "grammar": "At / On / In",
+      "grammar_rule": "At — точное время; on — дни; in — части дня, месяцы, годы. Примеры: at seven, on Monday, in the morning.",
+      "vocabulary": [
+        {
+          "id": "v097",
+          "word": "Monday",
+          "ipa": "/ˈmʌndeɪ/",
+          "translation": "понедельник",
+          "example": "This is Monday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v098",
+          "word": "Tuesday",
+          "ipa": "/ˈtjuːzdeɪ/",
+          "translation": "вторник",
+          "example": "This is Tuesday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v099",
+          "word": "Wednesday",
+          "ipa": "/ˈwenzdeɪ/",
+          "translation": "среда",
+          "example": "This is Wednesday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v100",
+          "word": "Thursday",
+          "ipa": "/ˈθɜːzdeɪ/",
+          "translation": "четверг",
+          "example": "This is Thursday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v101",
+          "word": "Friday",
+          "ipa": "/ˈfraɪdeɪ/",
+          "translation": "пятница",
+          "example": "This is Friday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v102",
+          "word": "Saturday",
+          "ipa": "/ˈsætədeɪ/",
+          "translation": "суббота",
+          "example": "This is Saturday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v103",
+          "word": "Sunday",
+          "ipa": "/ˈsʌndeɪ/",
+          "translation": "воскресенье",
+          "example": "This is Sunday.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v104",
+          "word": "time",
+          "ipa": "/taɪm/",
+          "translation": "время",
+          "example": "This is time.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w13-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни cap/cape, kit/kite, hop/hope",
+          "phonics_instruction": "CVCe: name, bike, home; конечная e обычно не читается",
+          "vocabulary_ids": [
+            "v097",
+            "v098",
+            "v099",
+            "v100"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни cap/cape, kit/kite, hop/hope",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w13-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи дни недели — они пишутся с большой буквы",
+          "phonics_instruction": "CVCe: name, bike, home; конечная e обычно не читается",
+          "vocabulary_ids": [
+            "v101",
+            "v102",
+            "v103",
+            "v104"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи дни недели — они пишутся с большой буквы",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w13-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Вставь at/on/in: __ Monday; __ 7 o'clock; __ the evening.",
+          "phonics_instruction": "CVCe: name, bike, home; конечная e обычно не читается",
+          "vocabulary_ids": [
+            "v097",
+            "v098",
+            "v099",
+            "v100",
+            "v101",
+            "v102",
+            "v103",
+            "v104"
+          ],
+          "grammar_rule": "At — точное время; on — дни; in — части дня, месяцы, годы. Примеры: at seven, on Monday, in the morning.",
+          "examples": [
+            "at seven o’clock",
+            "on Monday",
+            "in the morning",
+            "in 2026"
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Вставь at/on/in: __ Monday; __ 7 o'clock; __ the evening.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-13-test",
+        "title": "Тест недели 13: Время",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w13-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: Monday.",
+            "answer": "понедельник",
+            "points": 1
+          },
+          {
+            "id": "w13-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «вторник».",
+            "answer": "Tuesday",
+            "points": 1
+          },
+          {
+            "id": "w13-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: Wednesday.",
+            "answer": "среда",
+            "points": 1
+          },
+          {
+            "id": "w13-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w13-q5",
+            "type": "grammar_text_input",
+            "prompt": "We play __ Monday.",
+            "answer": "on",
+            "points": 1
+          },
+          {
+            "id": "w13-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Мы играем в понедельник.»",
+            "answer": "We play on Monday.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w13-q1",
+            "answer": "понедельник"
+          },
+          {
+            "question_id": "w13-q2",
+            "answer": "Tuesday"
+          },
+          {
+            "question_id": "w13-q3",
+            "answer": "среда"
+          },
+          {
+            "question_id": "w13-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w13-q5",
+            "answer": "on"
+          },
+          {
+            "question_id": "w13-q6",
+            "answer": "We play on Monday."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-14",
+      "number": 14,
+      "theme": "Дом и комнаты",
+      "phonics": "OW/OU часто /aʊ/: house, mouse, brown, now",
+      "grammar": "There is / There are",
+      "grammar_rule": "There is — один предмет; there are — несколько. Вопрос Is there…? / Are there…? Отрицание isn't/aren't.",
+      "vocabulary": [
+        {
+          "id": "v105",
+          "word": "kitchen",
+          "ipa": "/ˈkɪtʃɪn/",
+          "translation": "кухня",
+          "example": "This is kitchen.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v106",
+          "word": "bedroom",
+          "ipa": "/ˈbedruːm/",
+          "translation": "спальня",
+          "example": "This is bedroom.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v107",
+          "word": "bathroom",
+          "ipa": "/ˈbɑːθruːm/",
+          "translation": "ванная",
+          "example": "This is bathroom.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v108",
+          "word": "living room",
+          "ipa": "/ˈlɪvɪŋ ruːm/",
+          "translation": "гостиная",
+          "example": "This is living room.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v109",
+          "word": "bed",
+          "ipa": "/bed/",
+          "translation": "кровать",
+          "example": "This is bed.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v110",
+          "word": "sofa",
+          "ipa": "/ˈsəʊfə/",
+          "translation": "диван",
+          "example": "This is sofa.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v111",
+          "word": "lamp",
+          "ipa": "/læmp/",
+          "translation": "лампа",
+          "example": "This is lamp.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v112",
+          "word": "house",
+          "ipa": "/haʊs/",
+          "translation": "дом",
+          "example": "This is house.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w14-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай house, mouse, brown, now",
+          "phonics_instruction": "OW/OU часто /aʊ/: house, mouse, brown, now",
+          "vocabulary_ids": [
+            "v105",
+            "v106",
+            "v107",
+            "v108"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай house, mouse, brown, now",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w14-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи комнаты и мебель, нарисуй план комнаты",
+          "phonics_instruction": "OW/OU часто /aʊ/: house, mouse, brown, now",
+          "vocabulary_ids": [
+            "v109",
+            "v110",
+            "v111",
+            "v112"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи комнаты и мебель, нарисуй план комнаты",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w14-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выбери is/are: There __ a sofa; There __ two lamps.",
+          "phonics_instruction": "OW/OU часто /aʊ/: house, mouse, brown, now",
+          "vocabulary_ids": [
+            "v105",
+            "v106",
+            "v107",
+            "v108",
+            "v109",
+            "v110",
+            "v111",
+            "v112"
+          ],
+          "grammar_rule": "There is — один предмет; there are — несколько. Вопрос Is there…? / Are there…? Отрицание isn't/aren't.",
+          "examples": [
+            "There is a bed.",
+            "There are two lamps.",
+            "Is there a desk?",
+            "There aren’t three chairs."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выбери is/are: There __ a sofa; There __ two lamps.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-14-test",
+        "title": "Тест недели 14: Дом и комнаты",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w14-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: kitchen.",
+            "answer": "кухня",
+            "points": 1
+          },
+          {
+            "id": "w14-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «спальня».",
+            "answer": "bedroom",
+            "points": 1
+          },
+          {
+            "id": "w14-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: bathroom.",
+            "answer": "ванная",
+            "points": 1
+          },
+          {
+            "id": "w14-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w14-q5",
+            "type": "grammar_text_input",
+            "prompt": "__ two chairs in the room.",
+            "answer": "There are",
+            "points": 1
+          },
+          {
+            "id": "w14-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «В комнате две лампы.»",
+            "answer": "There are two lamps in the room.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w14-q1",
+            "answer": "кухня"
+          },
+          {
+            "question_id": "w14-q2",
+            "answer": "bedroom"
+          },
+          {
+            "question_id": "w14-q3",
+            "answer": "ванная"
+          },
+          {
+            "question_id": "w14-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w14-q5",
+            "answer": "There are"
+          },
+          {
+            "question_id": "w14-q6",
+            "answer": "There are two lamps in the room."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-15",
+      "number": 15,
+      "theme": "Описание",
+      "phonics": "EA может звучать /iː/ sea или /e/ bread",
+      "grammar": "Прилагательные и порядок слов",
+      "grammar_rule": "Прилагательное после to be: She is happy. Перед существительным: a big dog. Прилагательные не получают -s: two red books.",
+      "vocabulary": [
+        {
+          "id": "v113",
+          "word": "tall",
+          "ipa": "/tɔːl/",
+          "translation": "высокий",
+          "example": "This is tall.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v114",
+          "word": "short",
+          "ipa": "/ʃɔːt/",
+          "translation": "низкий",
+          "example": "This is short.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v115",
+          "word": "young",
+          "ipa": "/jʌŋ/",
+          "translation": "молодой",
+          "example": "This is young.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v116",
+          "word": "old",
+          "ipa": "/əʊld/",
+          "translation": "старый",
+          "example": "This is old.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v117",
+          "word": "happy",
+          "ipa": "/ˈhæpi/",
+          "translation": "счастливый",
+          "example": "This is happy.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v118",
+          "word": "sad",
+          "ipa": "/sæd/",
+          "translation": "грустный",
+          "example": "This is sad.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v119",
+          "word": "beautiful",
+          "ipa": "/ˈbjuːtɪfəl/",
+          "translation": "красивый",
+          "example": "This is beautiful.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v120",
+          "word": "strong",
+          "ipa": "/strɒŋ/",
+          "translation": "сильный",
+          "example": "This is strong.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w15-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Сравни sea и bread: ea читается по-разному",
+          "phonics_instruction": "EA может звучать /iː/ sea или /e/ bread",
+          "vocabulary_ids": [
+            "v113",
+            "v114",
+            "v115",
+            "v116"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Сравни sea и bread: ea читается по-разному",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w15-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи прилагательные и подбери противоположности",
+          "phonics_instruction": "EA может звучать /iː/ sea или /e/ bread",
+          "vocabulary_ids": [
+            "v117",
+            "v118",
+            "v119",
+            "v120"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи прилагательные и подбери противоположности",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w15-l3",
+          "title": "Грамматика и применение",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Составь: a __ cat; two __ dogs; She is __.",
+          "phonics_instruction": "EA может звучать /iː/ sea или /e/ bread",
+          "vocabulary_ids": [
+            "v113",
+            "v114",
+            "v115",
+            "v116",
+            "v117",
+            "v118",
+            "v119",
+            "v120"
+          ],
+          "grammar_rule": "Прилагательное после to be: She is happy. Перед существительным: a big dog. Прилагательные не получают -s: two red books.",
+          "examples": [
+            "a big dog",
+            "two red books",
+            "The cat is small.",
+            "The happy girl has a blue bag."
+          ],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Составь: a __ cat; two __ dogs; She is __.",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-15-test",
+        "title": "Тест недели 15: Описание",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w15-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: tall.",
+            "answer": "высокий",
+            "points": 1
+          },
+          {
+            "id": "w15-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «низкий».",
+            "answer": "short",
+            "points": 1
+          },
+          {
+            "id": "w15-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: young.",
+            "answer": "молодой",
+            "points": 1
+          },
+          {
+            "id": "w15-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w15-q5",
+            "type": "grammar_text_input",
+            "prompt": "Two __ books (red).",
+            "answer": "red",
+            "points": 1
+          },
+          {
+            "id": "w15-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Она высокая.»",
+            "answer": "She is tall.",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w15-q1",
+            "answer": "высокий"
+          },
+          {
+            "question_id": "w15-q2",
+            "answer": "short"
+          },
+          {
+            "question_id": "w15-q3",
+            "answer": "молодой"
+          },
+          {
+            "question_id": "w15-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w15-q5",
+            "answer": "red"
+          },
+          {
+            "question_id": "w15-q6",
+            "answer": "She is tall."
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    },
+    {
+      "id": "week-16",
+      "number": 16,
+      "theme": "Погода, вопросы и итоговый проект",
+      "phonics": "Повторение коротких гласных, sh/ch/th, ee/oo, ai/ay, CVCe Итог: чтение короткого связного текста из знакомых слов.",
+      "grammar": "What, Where, Who, When, How, Why; итоговое повторение",
+      "grammar_rule": "What — что; where — где; who — кто; when — когда; how — как; why — почему. Слово ставится в начало: Where do you live?",
+      "vocabulary": [
+        {
+          "id": "v121",
+          "word": "weather",
+          "ipa": "/ˈweðə/",
+          "translation": "погода",
+          "example": "This is weather.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v122",
+          "word": "sunny",
+          "ipa": "/ˈsʌni/",
+          "translation": "солнечно",
+          "example": "This is sunny.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v123",
+          "word": "rainy",
+          "ipa": "/ˈreɪni/",
+          "translation": "дождливо",
+          "example": "This is rainy.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v124",
+          "word": "windy",
+          "ipa": "/ˈwɪndi/",
+          "translation": "ветрено",
+          "example": "This is windy.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v125",
+          "word": "cloudy",
+          "ipa": "/ˈklaʊdi/",
+          "translation": "облачно",
+          "example": "This is cloudy.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v126",
+          "word": "hot",
+          "ipa": "/hɒt/",
+          "translation": "жарко",
+          "example": "This is hot.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v127",
+          "word": "cold",
+          "ipa": "/kəʊld/",
+          "translation": "холодно",
+          "example": "This is cold.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        },
+        {
+          "id": "v128",
+          "word": "spring",
+          "ipa": "/sprɪŋ/",
+          "translation": "весна",
+          "example": "This is spring.",
+          "review_days": [
+            0,
+            1,
+            3,
+            7,
+            14
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "id": "w16-l1",
+          "title": "Чтение и фонетика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай cat, fish, ship, three, green, school, name, bike",
+          "phonics_instruction": "Повторение коротких гласных, sh/ch/th, ee/oo, ai/ay, CVCe",
+          "vocabulary_ids": [
+            "v121",
+            "v122",
+            "v123",
+            "v124"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Прочитай cat, fish, ship, three, green, school, name, bike",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w16-l2",
+          "title": "Словарь и письменная практика",
+          "duration_minutes": 30,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Выучи погоду и времена года",
+          "phonics_instruction": "Повторение коротких гласных, sh/ch/th, ee/oo, ai/ay, CVCe",
+          "vocabulary_ids": [
+            "v125",
+            "v126",
+            "v127",
+            "v128"
+          ],
+          "grammar_rule": null,
+          "examples": [],
+          "practice": [
+            {
+              "type": "oral",
+              "prompt": "Выучи погоду и времена года",
+              "answer_criteria": "Родитель отмечает самостоятельность и понятность ответа."
+            },
+            {
+              "type": "written",
+              "prompt": "Напиши по памяти три слова и составь одно предложение по теме.",
+              "answer_criteria": "Сверить со словарём и правилом недели."
+            }
+          ],
+          "homework": "Повтори слова: прочитать → произнести → закрыть перевод → вспомнить → написать. Повтори через 1, 3 и 7 дней.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        },
+        {
+          "id": "w16-l3",
+          "title": "Итоговая практика и мини-проект",
+          "duration_minutes": 35,
+          "parent_notes": "Прочитайте объяснение вместе. Покажите один пример, затем попросите ребёнка выполнить аналогичный самостоятельно. Не торопите и сначала дайте закончить ответ.",
+          "child_explanation": "Прочитай: My name is Ben. I am ten. I have got a dog. My dog is black. I play with my dog every day. Ответь: How old is Ben? What colour is his dog? Затем подготовь рассказ о себе из 5–7 предложений, используя знакомые слова и правила.",
+          "phonics_instruction": "Повторение коротких гласных, sh/ch/th, ee/oo, ai/ay, CVCe",
+          "vocabulary_ids": [
+            "v121",
+            "v122",
+            "v123",
+            "v124",
+            "v125",
+            "v126",
+            "v127",
+            "v128"
+          ],
+          "grammar_rule": "What — что; where — где; who — кто; when — когда; how — как; why — почему. Слово ставится в начало: Where do you live?",
+          "examples": [
+            "What is the weather like?",
+            "Where do you live?",
+            "Who is your friend?",
+            "When do you play?",
+            "How old are you?",
+            "Why do you like dogs?"
+          ],
+          "practice": [
+            {
+              "type": "reading",
+              "prompt": "Прочитай короткий текст о Ben и ответь на два вопроса по его содержанию.",
+              "answer_criteria": "Оба ответа соответствуют тексту."
+            },
+            {
+              "type": "writing",
+              "prompt": "Напиши 5–7 предложений о себе, семье, школе и любимом занятии.",
+              "answer_criteria": "Использованы понятные предложения и не менее трёх изученных грамматических конструкций."
+            }
+          ],
+          "homework": "Повтори словарь всех 16 недель. Подготовь и прочитай вслух рассказ My name is… из 5–7 предложений о себе, семье, школе и любимом занятии.",
+          "assessment": [
+            {
+              "prompt": "Объясни главное правило урока своими словами.",
+              "answer_criteria": "Смысл правила передан верно, есть пример."
+            },
+            {
+              "prompt": "Прочитай два слова и напиши одно по памяти.",
+              "answer_criteria": "Родитель сверяет чтение и написание."
+            }
+          ]
+        }
+      ],
+      "weekly_test": {
+        "id": "week-16-test",
+        "title": "Тест недели 16: Погода, вопросы и итоговый проект",
+        "instructions": "Выполни без словаря. Родитель оценивает чтение по указанному критерию.",
+        "questions": [
+          {
+            "id": "w16-q1",
+            "type": "translate",
+            "prompt": "Переведи на русский: weather.",
+            "answer": "погода",
+            "points": 1
+          },
+          {
+            "id": "w16-q2",
+            "type": "spell",
+            "prompt": "Напиши по-английски: «солнечно».",
+            "answer": "sunny",
+            "points": 1
+          },
+          {
+            "id": "w16-q3",
+            "type": "translate",
+            "prompt": "Переведи на русский: rainy.",
+            "answer": "дождливо",
+            "points": 1
+          },
+          {
+            "id": "w16-q4",
+            "type": "reading_parent_assessed",
+            "prompt": "Прочитай вслух первые четыре слова недельного словаря.",
+            "answer_criteria": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось.",
+            "points": 4
+          },
+          {
+            "id": "w16-q5",
+            "type": "grammar_text_input",
+            "prompt": "Ask about a place: __ do you live?",
+            "answer": "Where",
+            "points": 1
+          },
+          {
+            "id": "w16-q6",
+            "type": "sentence_translation",
+            "prompt": "Переведи на английский: «Где ты живёшь?»",
+            "answer": "Where do you live?",
+            "points": 1
+          }
+        ],
+        "max_score": 9,
+        "pass_score": 7,
+        "answer_key": [
+          {
+            "question_id": "w16-q1",
+            "answer": "погода"
+          },
+          {
+            "question_id": "w16-q2",
+            "answer": "sunny"
+          },
+          {
+            "question_id": "w16-q3",
+            "answer": "дождливо"
+          },
+          {
+            "question_id": "w16-q4",
+            "answer": "4 балла — все слова без подсказки; 3 — одна ошибка; 2 — две ошибки; 1 — три ошибки; 0 — не получилось."
+          },
+          {
+            "question_id": "w16-q5",
+            "answer": "Where"
+          },
+          {
+            "question_id": "w16-q6",
+            "answer": "Where do you live?"
+          }
+        ],
+        "remediation": "Если меньше 7 баллов: повторить слова и правило, выполнить упражнения ещё раз и пройти тест через 1–2 дня."
+      }
+    }
+  ],
+  "final_test": {
+    "max_score": 100,
+    "sections": [
+      {
+        "name": "Словарь",
+        "points": 20,
+        "tasks": [
+          "Перевести 10 слов EN→RU — 10 баллов.",
+          "Написать 10 слов RU→EN — 10 баллов."
+        ]
+      },
+      {
+        "name": "Чтение",
+        "points": 20,
+        "tasks": [
+          "Прочитать 10 слов с разными моделями — 10 баллов.",
+          "Прочитать короткий текст и ответить на вопросы — 10 баллов."
+        ]
+      },
+      {
+        "name": "Грамматика",
+        "points": 30,
+        "tasks": [
+          "To Be, вопросы и отрицания — 10 баллов.",
+          "Артикли, множественное число, указательные слова — 10 баллов.",
+          "Have got, Present Simple, can, there is/are — 10 баллов."
+        ]
+      },
+      {
+        "name": "Понимание и письмо",
+        "points": 20,
+        "tasks": [
+          "Прочитать текст и ответить на 5 вопросов — 10 баллов.",
+          "Написать 5–7 предложений о себе — 10 баллов."
+        ]
+      },
+      {
+        "name": "Устная практика",
+        "points": 10,
+        "tasks": [
+          "Ответить на 5 вопросов о себе, семье, школе и предпочтениях."
+        ]
+      }
+    ],
+    "levels": [
+      {
+        "range": "85–100",
+        "label": "Уверенная базовая основа",
+        "action": "Переходить к следующему уровню."
+      },
+      {
+        "range": "70–84",
+        "label": "База сформирована частично",
+        "action": "Повторить темы с ошибками."
+      },
+      {
+        "range": "50–69",
+        "label": "Нужна дополнительная практика",
+        "action": "Выделить 2–3 недели на повторение."
+      },
+      {
+        "range": "0–49",
+        "label": "Фундамент пока не закреплён",
+        "action": "Повторить звуки, словарь и To Be."
+      }
+    ]
+  },
+  "site_data_model": {
+    "entities": [
+      "Course",
+      "Week",
+      "Lesson",
+      "VocabularyItem",
+      "Quiz",
+      "Question",
+      "LearnerProgress"
+    ],
+    "progress_fields": [
+      "week_id",
+      "lesson_id",
+      "started_at",
+      "completed_at",
+      "score",
+      "attempts",
+      "parent_note",
+      "mastery_status"
+    ],
+    "question_types": [
+      "single_choice",
+      "text_input",
+      "matching",
+      "reading_aloud_parent_assessed",
+      "dictation_parent_assessed",
+      "sentence_order"
+    ]
+  }
+}

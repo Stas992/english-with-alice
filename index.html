@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English with Alice</title>
+  <link rel="stylesheet" href="styles.css?v=20261103-24" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">A</span><div><strong>English with Alice</strong><small>Учимся вместе с папой</small></div></div>
+      <div class="top-actions"><button class="icon-button" id="theme-toggle" aria-label="Включить тёмную тему" title="Включить тёмную тему">☾</button><div class="avatar">А</div></div>
+    </header>
+    <main class="dashboard" id="home-screen">
+      <section class="hero-card">
+        <div class="hero-copy"><span class="eyebrow">Доброе утро, Алиса!</span><h1>Готова к маленькому<br><em>английскому приключению?</em></h1><p>Стич приготовил для тебя новое задание. Сегодня мы продолжим неделю <strong id="week-title">1 — Знакомство</strong>.</p><button class="primary-button" id="start-btn">Продолжить занятие <span>→</span></button></div>
+        <img class="helper" src="assets/helper-welcome.png" alt="Синий помощник приветствует Алису" />
+        <div class="sparkle s1">✦</div><div class="sparkle s2">✦</div><div class="sparkle s3">✧</div>
+      </section>
+
+      <section class="stats-grid">
+        <article class="stat-card progress-card"><div class="card-heading"><span class="card-icon purple">◒</span><div><small>Прогресс курса</small><strong id="progress-text">0 из 48 уроков</strong></div></div><div class="progress-track"><div id="progress-bar"></div></div><div class="muted-row"><span>Неделя 1 из 16</span><span id="progress-percent">0%</span></div></article>
+        <article class="stat-card stars-card"><div class="card-heading"><span class="card-icon yellow">★</span><div><small>Мои звёзды</small><strong><span id="stars">0</span> <span class="soft">из 100</span></strong></div></div><div class="reward-line"><span>До следующей награды</span><b id="reward-left">80 звёзд</b></div><div class="mini-stars">★ ★ ★ ★ ★</div></article>
+        <article class="stat-card streak-card"><div class="card-heading"><span class="card-icon coral">♨</span><div><small>Серия недель</small><strong><span id="streak">0</span> недели подряд</strong></div></div><div class="week-dots"><i class="active"></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class="muted-row"><span>Три занятия в каждой неделе</span><span>🔥</span></div></article>
+      </section>
+
+      <section class="content-grid">
+        <article class="panel lessons-panel"><div class="panel-title"><div><small>ТЕКУЩАЯ НЕДЕЛЯ</small><h2>Неделя 1 · Знакомство</h2></div><button class="text-button" id="all-weeks">Все недели →</button></div><div class="lesson-list" id="lesson-list"></div></article>
+        <aside class="side-column"><article class="panel review-panel"><div class="panel-title"><div><small>НА СЕГОДНЯ</small><h2>Повторение слов</h2></div><span class="calendar-icon">▦</span></div><p>Пора вспомнить слова, которые ты уже встречала. Это займёт всего несколько минут.</p><button class="secondary-button" id="review-btn">Открыть карточки <span>→</span></button></article><article class="panel parent-panel"><div class="parent-icon">☻</div><div><small>РЕЖИМ ПАПЫ</small><h3>Подсказки для занятия</h3><p>Папа, здесь собраны простые объяснения и идеи для практики.</p><button class="link-button" id="parent-btn">Открыть подсказки →</button></div></article></aside>
+      </section>
+    </main>
+    <main class="course-screen" id="course-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-home">←</button><div><small>ПУТЕШЕСТВИЕ АЛИСЫ</small><h1>Карта курса</h1><p>16 недель маленьких шагов — и большая победа в конце.</p></div><div class="map-total"><strong id="map-stars">0</strong><span>★ звёзд</span></div></div>
+      <div class="course-banner"><div><span class="eyebrow">ТВОЙ МАРШРУТ</span><h2>Английское приключение начинается здесь!</h2><p>Каждая неделя — новая тема, новые слова и одна маленькая победа.</p></div><div class="banner-star">★</div></div>
+      <section class="weeks-grid" id="weeks-grid"></section>
+    </main>
+    <main class="week-screen" id="week-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-course">←</button><div><small>НЕДЕЛЯ 01</small><h1>Знакомство</h1><p>Познакомимся с английским и научимся представляться.</p></div><div class="week-badge">1 / 16</div></div>
+      <div class="topic-grid"><div class="topic-card"><span>🔤</span><small>ФОНЕТИКА</small><strong>/æ/ в cat, bag, map</strong></div><div class="topic-card"><span>📚</span><small>СЛОВАРЬ</small><strong>8 новых слов</strong></div><div class="topic-card"><span>💡</span><small>ГРАММАТИКА</small><strong>Местоимения</strong></div></div>
+      <section class="week-layout"><div class="panel lesson-panel"><div class="panel-title"><div><small>ТРИ ШАГА НЕДЕЛИ</small><h2>Выбери следующее занятие</h2></div><span class="week-progress">0 / 3</span></div><div class="big-lesson-list"><article class="big-lesson active"><div class="big-num">1</div><div><small>30 МИНУТ · ШАГ 1</small><h3>Чтение и фонетика</h3><p>Потренируем звук /æ/ и научимся читать первые слова.</p></div><button class="lesson-go">Начать →</button></article><article class="big-lesson"><div class="big-num">2</div><div><small>30 МИНУТ · ШАГ 2</small><h3>Словарь и письменная практика</h3><p>Выучим слова hello, goodbye, name и другие.</p></div><span class="lock-mark">○</span></article><article class="big-lesson"><div class="big-num">3</div><div><small>35 МИНУТ · ШАГ 3</small><h3>Грамматика и применение</h3><p>Разберём I, you, he, she, it, we и they.</p></div><span class="lock-mark">○</span></article></div><button class="secondary-button weekly-test-button" id="open-test">Пройти тест недели <span>→</span></button></div><aside class="panel week-overview"><div class="week-overview-heading"><span class="week-overview-mascot">✦</span><div><small>КАРТА НЕДЕЛИ</small><h2 id="overview-title">Три шага — и новая победа!</h2><p id="overview-theme"></p></div></div><div id="week-overview-content"></div></aside></section>
+    </main>
+    <main class="test-screen" id="test-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-test">←</button><div><small>НЕДЕЛЯ 01 · ПРОВЕРКА</small><h1>Тест недели</h1><p>Выполни без словаря. Папа поможет с чтением.</p></div><div class="lesson-pill">+2 ★</div></div>
+      <section class="panel test-panel"><div class="test-progress"><span>ВОПРОС 1 ИЗ 3</span><span>0 / 3</span></div><h2>Переведи на русский</h2><div class="test-word">hello</div><div id="test-reading-words" class="test-reading-words" hidden></div><div id="test-reading-score" class="test-reading-score" hidden></div><input id="test-answer" placeholder="Напиши перевод" autocomplete="off"/><button class="primary-button" id="submit-test">Проверить ответ <span>→</span></button><div id="test-result" class="test-result"></div></section>
+    </main>
+    <main class="rewards-screen" id="rewards-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-rewards">←</button><div><small>МОТИВАЦИЯ АЛИСЫ</small><h1>Мои награды</h1><p>Каждая звезда приближает тебя к большой цели.</p></div><div class="map-total"><strong id="reward-stars">0</strong><span>★ из 100</span></div></div>
+      <section class="reward-hero"><div><span class="eyebrow">ТВОЙ ПРОГРЕСС</span><h2>Собери все 100 звёзд!</h2><p>Занимайся регулярно, выполняй задания и открывай награды.</p><div class="reward-progress"><div id="reward-progress-bar"></div></div></div><div class="big-star">★</div></section>
+      <section class="reward-list"><article class="reward-card"><div class="reward-icon">🍫</div><div><span>80 ЗВЁЗД</span><h3>Сладкая награда</h3><p>Шоколадка Milky Way и дополнительные игровые уроки.</p></div><b class="reward-status" data-reward="80">0 / 80</b></article><article class="reward-card"><div class="reward-icon">🎬</div><div><span>90 ЗВЁЗД</span><h3>Кино с подругой</h3><p>Два билета на любой фильм, который выберешь.</p></div><b class="reward-status" data-reward="90">0 / 90</b></article><article class="reward-card grand"><div class="reward-icon">🎁</div><div><span>100 ЗВЁЗД</span><h3>Большая награда</h3><p>Кукла Doll за прохождение курса и итоговый тест.</p></div><b class="reward-status" data-reward="100">0 / 100</b></article></section>
+    </main>
+    <main class="review-screen" id="review-screen" hidden><div class="screen-heading"><button class="back-button" id="back-review">←</button><div><small>ПОВТОРЕНИЕ</small><h1>Карточки слов</h1><p>Вспомни перевод и произношение без подсказки.</p></div><div class="lesson-pill" id="review-count">0 / 8</div></div><div class="review-card" id="flashcard"><span class="eyebrow">СЛОВО</span><strong id="flash-word">hello</strong><small id="flash-answer">Нажми, чтобы увидеть перевод</small><button class="primary-button" id="reveal-card">Показать перевод</button></div><div class="review-actions"><button class="secondary-button" id="forgot-word">Повторить позже</button><button class="primary-button" id="knew-word">Я вспомнила ✓</button></div></main>
+    <main class="parent-screen" id="parent-screen" hidden><section class="panel reset-panel"><div><small>ДАННЫЕ АЛИСЫ</small><h2>Начать курс заново</h2><p>Сбросит пройденные уроки, тесты, звёзды и текущий прогресс.</p></div><button class="reset-button" id="reset-progress">Сбросить прогресс</button></section><div class="screen-heading"><button class="back-button" id="back-parent">←</button><div><small>РЕЖИМ ПАПЫ</small><h1>Подсказки для занятия</h1><p>Материалы и ход всех 16 недель курса.</p></div></div><section class="parent-weeks" id="parent-weeks"></section></main>
+    <main class="lesson-screen" id="lesson-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-week">←</button><div><small>НЕДЕЛЯ 01 · ЗНАКОМСТВО</small><h1>Чтение и фонетика</h1><p>Шаг 1 из 3 · около 30 минут</p></div><div class="lesson-pill">+1 ★</div></div>
+      <section class="lesson-hero"><div><span class="eyebrow">ЦЕЛЬ УРОКА</span><h2>Научимся слышать звук <em>/æ/</em></h2><p>Прочитай слова <strong>cat, bag, map</strong> по звукам и найди букву A.</p></div><img src="assets/helper-welcome.png" alt="Помощник на уроке"/></section>
+      <section class="exercise-layout"><div class="panel exercise-panel"><div class="exercise-top"><span>ЗАДАНИЕ 1 ИЗ 3</span><span>0 / 8 выполнено</span></div><h2>Послушай и прочитай</h2><p class="instruction">Нажми на 🔊, послушай каждое слово и повтори его вслух вместе с папой.</p><div id="lesson-words"></div><button class="primary-button exercise-next">Я выполнила задание <span>→</span></button></div><aside class="panel parent-tip"><div class="parent-icon">☻</div><small>ПОДСКАЗКА ПАПЕ</small><h3>Как объяснить звук /æ/</h3><p>Попросите Алису широко улыбнуться и коротко произнести звук между «а» и «э». Сначала покажите один пример, потом дайте ей попробовать самой.</p><button class="link-button">Подробнее о правиле →</button></aside></section>
+    </main>
+    <main class="vocab-screen" id="vocab-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-vocab">←</button><div><small>НЕДЕЛЯ 01 · ШАГ 2 ИЗ 3</small><h1>Словарь и практика</h1><p>Выучи 8 слов и проверь себя по памяти.</p></div><div class="lesson-pill">+1 ★</div></div>
+      <div class="vocab-intro"><div><span class="eyebrow">СЛОВА НЕДЕЛИ</span><h2>Нажми на карточку, чтобы увидеть перевод</h2></div><div class="vocab-count">8 слов</div></div>
+      <section class="vocab-grid" id="vocab-grid"></section>
+      <div class="panel writing-task"><div><small>ПИСЬМЕННАЯ ПРАКТИКА</small><h2>Напиши по памяти все слова</h2><p>Переведи каждое русское слово на английский. Написание проверяется автоматически.</p><div class="writing-inputs"></div></div><button class="primary-button" id="finish-vocab">Проверить написание <span>→</span></button></div>
+    </main>
+    <main class="grammar-screen" id="grammar-screen" hidden>
+      <div class="screen-heading"><button class="back-button" id="back-grammar">←</button><div><small>НЕДЕЛЯ 01 · ШАГ 3 ИЗ 3</small><h1>Грамматика и применение</h1><p>Разберём местоимения и составим первые предложения.</p></div><div class="lesson-pill">+1 ★</div></div>
+      <section class="grammar-layout"><div class="panel rule-panel"><span class="eyebrow">ПРАВИЛО ЭТОЙ НЕДЕЛИ</span><h2></h2><p></p><div class="grammar-explanation"></div><div class="remember-box"><strong>Коротко:</strong> <span class="rule-summary-text"></span></div><div class="pronoun-grid"></div><div class="rule-formula"></div><div class="examples"></div></div><aside class="panel grammar-tip"><div class="parent-icon">☻</div><small>ПОДСКАЗКА ПАПЕ</small><h3>Как объяснить правило</h3><p class="parent-hint"></p><div class="parent-steps"></div></aside></section>
+      <section class="panel grammar-practice"><div><small>ПРАКТИКА ИЗ КУРСА</small><h2>Задание недели</h2><p class="grammar-practice-prompt"></p><div class="grammar-questions"></div></div><button class="primary-button" id="finish-grammar">Завершить урок <span>→</span></button></section>
+    </main>
+    <nav class="bottom-nav"><button class="nav-item active" id="nav-home"><span>⌂</span>Главная</button><button class="nav-item" id="nav-course"><span>▤</span>Курс</button><button class="nav-item" id="nav-rewards"><span>★</span>Награды</button><button class="nav-item" id="nav-parent"><span>☻</span>Папа</button></nav>
+  </div>
+  <script src="app.js?v=20261103-24"></script>
+</body>
+</html>
